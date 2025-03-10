@@ -1,2 +1,2 @@
 # Data_Visualization
-Data Visualization 2024-2025
+This repository contains my completed labworks of the "Data Visualization 2024-2025" course
